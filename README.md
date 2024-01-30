@@ -5,8 +5,11 @@ Hi there! I'm running things on the web since I was old enough to buy a domain n
 I'm also a digital illustrator!
 
 [Personal Website (since 2017)](https://nighten.fr)
+
 [Pro Website (mostly about game programming for now)](https://nathan-guilhot.com)
+
 Fediverse/Mastodon : [NIGHTEN@hi.nighten.fr](https://hi.nighten.fr/NIGHTEN)
+
 
 [**EMAIL**](mailto:nathan.guilhot@gmx.fr)
 
